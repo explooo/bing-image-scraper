@@ -32,6 +32,8 @@ python search_bing_api.py -q "cats" -c 100 -d "./cat_images" -l "public" -o 0
 
 This will download 100 public images of cats to the 'cat_images' directory, starting from the first image in the search results.
 
+Dont forget to 🌟 this repository
+
 ## Getting the Bing Image Search API Key
 
 To use this script, you'll need a Bing Image Search API key. Here are the steps to obtain it:
